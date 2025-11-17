@@ -29,3 +29,4 @@ Step-by-step instructions:   install msys and ... gcc
 - Thanks to [ChatGPT](https://openai.com/chatgpt) for guidance on GPU tweaks and Markdown formatting.
 
 ##   also known as__ Dr. Steve Smartypants  __
+cpu usage on a fifth gen quadcore is 5-9 % - audio was super light dont even think about it
