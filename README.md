@@ -24,4 +24,8 @@ latest version of the recorder  video and audio
 ## Installation
 Step-by-step instructions:   install msys and ... gcc
 
+## Acknowledgements
 
+- Thanks to [ChatGPT](https://openai.com/chatgpt) for guidance on GPU tweaks and Markdown formatting.
+
+##   also known as__ Dr. Steve Smartypants  __
