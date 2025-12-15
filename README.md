@@ -1,4 +1,9 @@
 hello - / 
+
+use     finalrecorder01       try it first 
+
+
+
 i am going to try something until it works -
 rem my latest version of the recorder  video and audio
 revamped for extrely lightweight cpu  - huge improvements on bopt
